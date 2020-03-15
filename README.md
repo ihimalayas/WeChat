@@ -1,7 +1,7 @@
 # WeChat
 Wechat Projects
 
-## Project1
+## Project01
 
 > Find the future GBfriends
 
